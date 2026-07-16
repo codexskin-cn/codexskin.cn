@@ -4,7 +4,7 @@
 
 访问官网：[https://codexskin.cn/](https://codexskin.cn/)
 
-![CodexSkin.cn 主题预览](https://codexskin.cn/assets/images/skins/skin-01.jpg)
+![CodexSkin.cn 主题预览](./screenshot.jpg)
 
 ## CodexSkin 能做什么？
 
